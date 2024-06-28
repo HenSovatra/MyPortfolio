@@ -1,4 +1,4 @@
-AOS.init();
+
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 const textArray = ["Front-End Developer", "Back-End Developer", "Web Developer","I Love Coding!"];
